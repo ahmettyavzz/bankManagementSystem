@@ -1,2 +1,2 @@
 # bankManagementSystem
-Bank management system. Java is used.
+Bank management system. Used Java.
